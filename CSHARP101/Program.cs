@@ -10,6 +10,7 @@ namespace CSHARP101
     {
         static void Main(string[] args)
         {
+            //this is my first program
             Console.WriteLine("Hello C# Community");
         }
     }
